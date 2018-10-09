@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html lang="en" class="no-js" data-shipping-options-url="/en/cart/shipping-options/" data-cart-summary-url="/en/cart/summary/">
+<head>
+  <title>
+  
+    Bazaar 2018 - Saleor e-commerce
+  
+</title>
+  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Saleor">
+    <meta name="theme-color" content="#333333">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Saleor e-commerce">
+    <meta name="og:type" content="website">
+    
+    
+      <link rel="alternate" hreflang="en" href="index.html" />
+    
+  
+
+  
+
+<meta name="application-name" content="Saleor e-commerce">
+<link rel="apple-touch-icon" sizes="180x180" href="../../../../static/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../../../static/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../../../static/favicons/favicon-16x16.png">
+<link rel="mask-icon" href="../../../../static/favicons/safari-pinned-tab.svg" color="#78818f">
+
+  <link type="text/css" href="../../../../static/assets/storefront.css" rel="stylesheet" async/>
+
+  
+
+  
+  <meta property="og:title" content="Bazaar 2018">
+  
+  <meta property="og:description" content="">
+  <meta name="description" content="">
+
+  
+    <meta property="og:image" content="/static/images/block1.png">
+  
+
+  
+  <meta property="og:url" content="https://bazaar.akikieng.com/en/products/collection/bazaar-2018-1/">
+  <link rel="canonical" href="index.html?page=1">
+
+  
+
+  
+
+
+  <link rel="manifest" href="../../../manifest.json" />
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+  <header class="navbar" role="navigation">
+    <div class="navbar__login container-fluid ">
+      <div class=" d-none d-md-block container">
+      <div class="row">
+        <div class="col-6">
+          <p class="text-left">AEE Bazaar</p>
+        </div>
+        <div class="col-6">
+          <ul class="float-right">
+            
+
+            
+            
+            
+              
+              <li>
+                <a rel="nofollow" href="../../../account/login/index.html">
+                  Log in
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="navbar__brand container-fluid d-block">
+      <div class="container">
+        <div class="row no-gutters">
+          <div class="col-8 col-md-4 navbar__logo">
+            <div class="menu-icon-mobile d-md-none navbar__brand__menu-toggle closed open">
+              <svg src="/static/images/mobile-menu.svg" width="28px" height="20px"/>
+              <span>menu</span>
+            </div>
+            <a href="../../../../index.html">
+              <svg src="/static/images/logo.svg" height="38px" width="176px"/>
+            </a>
+          </div>
+          <div class="col-2 col-md-4 navbar__search static">
+            
+              <div class="d-md-none mobile-search-icon">
+                <svg src="/static/images/search.svg" width="30" height="30"/>
+              </div>
+              <form class="form-inline search-form" action="https://bazaar.akikieng.com/en/search/">
+                <div class="mobile-close-search d-md-none">
+                  <svg src="/static/images/close.svg" width="30" height="30"/>
+                </div>
+                <input class="form-control" type="text" name="q"
+                       value=""
+                       placeholder="Search for product"
+                       required>
+                <button class="btn btn-link" type="submit">
+                  <svg src="/static/images/search.svg" width="30" height="30"/>
+                </button>
+              </form>
+            
+          </div>
+          <div class="col-2 col-md-4">
+	    &nbsp;
+	    
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="navbar__menu container d-block">
+      <nav class="navigation">
+        
+
+
+
+
+<ul class="menu nav mb-4 mb-md-0">
+  
+</ul>
+
+      </nav>
+    </div>
+  </header>
+
+<div class="container maincontent">
+  
+  
+
+  
+  
+  <div class="row">
+    <div class="col-md-7">
+      <ul class="breadcrumbs list-unstyled d-none d-md-block">
+        
+  <li>
+    <a href="../../../../index.html">Home</a>
+  </li>
+  <li><a href='index.html'>Bazaar 2018</a></li>
+
+      </ul>
+    </div>
+    <div class="col-md-5">
+      <h3 class="d-md-none float-left filters-toggle">
+        Filters
+      </h3>
+      <div class="sort-by">
+        <div class="click-area d-none"></div>
+        <button class="btn btn-link">
+          <div>
+            <span>
+              
+            </span>
+            <div class="sort-order-icon">
+              
+                <svg src="/static/images/arrow-down.svg" />
+              
+            </div>
+          </div>
+        </button>
+        <ul class="sort-list d-none">
+          
+            <li>
+              <div class="row">
+                <div class="col-6">
+                  Sort by:
+                  <strong>name</strong>
+                </div>
+                <div class="col-6">
+                  <div>
+                    <a href="index.html?sort_by=name">
+                      <span>ascending</span>
+                      <div class="sort-order-icon float-right">
+                        <img class="lazyload lazypreload" src="../../../../static/images/arrow-up.svg">
+                      </div>
+                    </a>
+                    <a href="index.html?sort_by=-name">
+                      <span>descending</span>
+                      <div class="sort-order-icon float-right">
+                        <img class="lazyload lazypreload" src="../../../../static/images/arrow-down.svg">
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+          
+            <li>
+              <div class="row">
+                <div class="col-6">
+                  Sort by:
+                  <strong>price</strong>
+                </div>
+                <div class="col-6">
+                  <div>
+                    <a href="index.html?sort_by=price">
+                      <span>ascending</span>
+                      <div class="sort-order-icon float-right">
+                        <img class="lazyload lazypreload" src="../../../../static/images/arrow-up.svg">
+                      </div>
+                    </a>
+                    <a href="index.html?sort_by=-price">
+                      <span>descending</span>
+                      <div class="sort-order-icon float-right">
+                        <img class="lazyload lazypreload" src="../../../../static/images/arrow-down.svg">
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+          
+            <li>
+              <div class="row">
+                <div class="col-6">
+                  Sort by:
+                  <strong>last updated</strong>
+                </div>
+                <div class="col-6">
+                  <div>
+                    <a href="index.html?sort_by=updated_at">
+                      <span>ascending</span>
+                      <div class="sort-order-icon float-right">
+                        <img class="lazyload lazypreload" src="../../../../static/images/arrow-up.svg">
+                      </div>
+                    </a>
+                    <a href="index.html?sort_by=-updated_at">
+                      <span>descending</span>
+                      <div class="sort-order-icon float-right">
+                        <img class="lazyload lazypreload" src="../../../../static/images/arrow-down.svg">
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+  
+
+
+  <div id="product-list-page">
+    <div class="row">
+      <div class="col-md-4 col-lg-3">
+        
+  
+
+
+<div class="product-filters">
+  <div class="product-filters__title">
+    <h2>
+      <strong>Bazaar 2018</strong>
+    </h2>
+    
+  </div>
+</div>
+<div class="filters-menu__body d-none d-md-block">
+  <h2>
+    Filters
+    
+  </h2>
+  <div class="product-filters">
+    <div class="product-filters__attributes" data-icon-up="/static/images/chevron-up.svg" data-icon-down="/static/images/chevron-down.svg">
+      <form method="get">
+        
+          
+            <div class="filter-section" aria-expanded="true">
+              <div class="filter-section__header">
+                <h3>Flow (gph)</h3>
+                <div class="filter-section__icon">
+                  <img class="lazyload lazypreload" src="../../../../static/images/chevron-up.svg">
+                </div>
+              </div>
+              <div class="filter-section__content">
+                <div class="filter-form-field">
+                  <ul id="id_flow_gph">
+    <li><label for="id_flow_gph_0"><input type="checkbox" name="flow_gph" value="6" id="id_flow_gph_0" />
+ 8</label>
+
+</li>
+    <li><label for="id_flow_gph_1"><input type="checkbox" name="flow_gph" value="8" id="id_flow_gph_1" />
+ &gt; 100</label>
+
+</li>
+</ul>
+                </div>
+              </div>
+            </div>
+          
+        
+          
+            <div class="filter-section" aria-expanded="true">
+              <div class="filter-section__header">
+                <h3>Flow (gpm)</h3>
+                <div class="filter-section__icon">
+                  <img class="lazyload lazypreload" src="../../../../static/images/chevron-up.svg">
+                </div>
+              </div>
+              <div class="filter-section__content">
+                <div class="filter-form-field">
+                  <ul id="id_flow_gpm">
+    <li><label for="id_flow_gpm_0"><input type="checkbox" name="flow_gpm" value="1" id="id_flow_gpm_0" />
+ 900</label>
+
+</li>
+    <li><label for="id_flow_gpm_1"><input type="checkbox" name="flow_gpm" value="3" id="id_flow_gpm_1" />
+ 1400</label>
+
+</li>
+    <li><label for="id_flow_gpm_2"><input type="checkbox" name="flow_gpm" value="7" id="id_flow_gpm_2" />
+ &lt; 1</label>
+
+</li>
+</ul>
+                </div>
+              </div>
+            </div>
+          
+        
+          
+            <div class="filter-section" aria-expanded="true">
+              <div class="filter-section__header">
+                <h3>Horsepower</h3>
+                <div class="filter-section__icon">
+                  <img class="lazyload lazypreload" src="../../../../static/images/chevron-up.svg">
+                </div>
+              </div>
+              <div class="filter-section__content">
+                <div class="filter-form-field">
+                  <ul id="id_horsepower">
+    <li><label for="id_horsepower_0"><input type="checkbox" name="horsepower" value="4" id="id_horsepower_0" />
+ 3/4</label>
+
+</li>
+</ul>
+                </div>
+              </div>
+            </div>
+          
+        
+          
+            <div class="filter-section" aria-expanded="true">
+              <div class="filter-section__header">
+                <h3>Inlet (inch)</h3>
+                <div class="filter-section__icon">
+                  <img class="lazyload lazypreload" src="../../../../static/images/chevron-up.svg">
+                </div>
+              </div>
+              <div class="filter-section__content">
+                <div class="filter-form-field">
+                  <ul id="id_inlet_inch">
+    <li><label for="id_inlet_inch_0"><input type="checkbox" name="inlet_inch" value="2" id="id_inlet_inch_0" />
+ 6</label>
+
+</li>
+    <li><label for="id_inlet_inch_1"><input type="checkbox" name="inlet_inch" value="5" id="id_inlet_inch_1" />
+ 4</label>
+
+</li>
+</ul>
+                </div>
+              </div>
+            </div>
+          
+        
+          
+            <div class="filter-section" aria-expanded="true">
+              <div class="filter-section__header">
+                <h3>Material</h3>
+                <div class="filter-section__icon">
+                  <img class="lazyload lazypreload" src="../../../../static/images/chevron-up.svg">
+                </div>
+              </div>
+              <div class="filter-section__content">
+                <div class="filter-form-field">
+                  <ul id="id_material">
+    <li><label for="id_material_0"><input type="checkbox" name="material" value="10" id="id_material_0" />
+ Nickel</label>
+
+</li>
+    <li><label for="id_material_1"><input type="checkbox" name="material" value="11" id="id_material_1" />
+ Cast iron</label>
+
+</li>
+</ul>
+                </div>
+              </div>
+            </div>
+          
+        
+          
+          
+        
+          
+            
+            <input type="hidden" name="sort_by" value="-updated_at">
+          
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <div class="filter-section" aria-expanded="true">
+              <div class="filter-section__header">
+                <h3>Price</h3>
+                <div class="filter-section__icon">
+                  <img class="lazyload lazypreload" src="../../../../static/images/chevron-up.svg">
+                </div>
+              </div>
+              <div class="filter-section__content">
+                <div class="filter-form-field price-field">
+                  <input id="id_price_0" name="price_0"
+                        value="" type="number" min="0"
+                        class="form-control d-inline"
+                        placeholder="from"/><span>-</span><input id="id_price_1" name="price_1"
+                        value="" type="number" min="0"
+                        class="form-control d-inline" placeholder="to"/>
+                </div>
+              </div>
+            </div>
+          
+        
+          
+        
+        <button class="btn primary" type="submit">Update</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+      </div>
+      <div class="col-md-8 col-lg-9 product-list">
+        <div>
+          <div>
+            
+              <div class="row">
+                
+
+
+
+
+
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../zurn-large-capacity-grease-interceptor-z1172-1/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/Z1172-thumbnail-255x255-70.jpg"
+                 srcset="../../../../media/__sized__/products/Z1172-thumbnail-255x255-70.jpg 1x, ../../../../media/__sized__/products/Z1172-thumbnail-510x510-70.jpg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Zurn Large capacity grease interceptor (Z1172)">Zurn Large capacity grease interceptor (Z1172)</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+              Last piece
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>5,000.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../zurn-round-strainer-zn-400-7b-14/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/Z04007B-thumbnail-255x255-70.jpg"
+                 srcset="../../../../media/__sized__/products/Z04007B-thumbnail-255x255-70.jpg 1x, ../../../../media/__sized__/products/Z04007B-thumbnail-510x510-70.jpg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Zurn Round Strainer (ZN-400-7B)">Zurn Round Strainer (ZN-400-7B)</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>35.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../zurn-roof-drain-z-150-8/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/Z150_eVTrfMB-thumbnail-255x255-70.jpg"
+                 srcset="../../../../media/__sized__/products/Z150_eVTrfMB-thumbnail-255x255-70.jpg 1x, ../../../../media/__sized__/products/Z150_eVTrfMB-thumbnail-510x510-70.jpg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Zurn Roof Drain (Z-150)">Zurn Roof Drain (Z-150)</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>120.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../watts-hydrosafe-uv-stainless-steel-housing-8-gpm-hsuv-ss-8-2-11/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/HSUV-SS-8-2_TnsfMcV-thumbnail-255x255.png"
+                 srcset="../../../../media/__sized__/products/HSUV-SS-8-2_TnsfMcV-thumbnail-255x255.png 1x, ../../../../media/__sized__/products/HSUV-SS-8-2_TnsfMcV-thumbnail-510x510.png 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Watts Hydrosafe UV Stainless Steel housing, 8 GPM (HSUV-SS-8-2)">Watts Hydrosafe UV Stainless Steel housing, 8 GPM (HSUV-SS-8-2)</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>425.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../astral-pool-ladder-3-step-17-stainless-steel-10/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/07635_2Pvtpob-thumbnail-255x255-70.jpeg"
+                 srcset="../../../../media/__sized__/products/07635_2Pvtpob-thumbnail-255x255-70.jpeg 1x, ../../../../media/__sized__/products/07635_2Pvtpob-thumbnail-510x510-70.jpeg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Astral pool ladder, 3-step, 1.7&quot;, Stainless steel">Astral pool ladder, 3-step, 1.7&quot;, Stainless steel</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>150.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../amtrol-air-separator-6-as-l-10-bar-ep-asme-13/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/495-28_lq6LtQ8-thumbnail-255x255-70.jpg"
+                 srcset="../../../../media/__sized__/products/495-28_lq6LtQ8-thumbnail-255x255-70.jpg 1x, ../../../../media/__sized__/products/495-28_lq6LtQ8-thumbnail-510x510-70.jpg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Amtrol Air Separator 6&quot; AS-L, 10 bar, EP ASME">Amtrol Air Separator 6&quot; AS-L, 10 bar, EP ASME</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+              Last piece
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>1,200.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../jacuzzi-domestic-pool-pump-c7lr-s2-6/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/9402-6598-thumbnail-255x255-70.jpeg"
+                 srcset="../../../../media/__sized__/products/9402-6598-thumbnail-255x255-70.jpeg 1x, ../../../../media/__sized__/products/9402-6598-thumbnail-510x510-70.jpeg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Jacuzzi Domestic Pool Pump (C7LR-S2)">Jacuzzi Domestic Pool Pump (C7LR-S2)</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>450.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../elkay-cooler-wall-mount-ada-hands-free-non-filtered-8-gph-light-gray-granite-ezo8l-16/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/EZO8L2JO-thumbnail-255x255.png"
+                 srcset="../../../../media/__sized__/products/EZO8L2JO-thumbnail-255x255.png 1x, ../../../../media/__sized__/products/EZO8L2JO-thumbnail-510x510.png 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Elkay Cooler Wall Mount ADA Hands-Free Non-Filtered, 8 GPH Light Gray Granite (EZO8L)">Elkay Cooler Wall Mount ADA Hands-Free Non-Filtered, 8 GPH Light Gray Granite (EZO8L)</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+              2 units
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>500.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../pentair-fleck-valve-90001600-34-12/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/K4026X-2205-thumbnail-255x255-70.jpg"
+                 srcset="../../../../media/__sized__/products/K4026X-2205-thumbnail-255x255-70.jpg 1x, ../../../../media/__sized__/products/K4026X-2205-thumbnail-510x510-70.jpg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Pentair Fleck valve 9000/1600 3/4&quot;">Pentair Fleck valve 9000/1600 3/4&quot;</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+              2 units
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>750.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="col-6 col-lg-3 product-list">
+    <a href="../../pentek-stainless-steel-water-filter-housing-cfhf-7-x-20-ss304-9/index.html" class="link--clean">
+      <div class="text-center">
+        <div>
+          <div class="product-image">
+            <img class="img-responsive lazyload lazypreload"
+                 src="../../../../media/__sized__/products/PWG1251135_n33TCR8-thumbnail-255x255-70.jpg"
+                 srcset="../../../../media/__sized__/products/PWG1251135_n33TCR8-thumbnail-255x255-70.jpg 1x, ../../../../media/__sized__/products/PWG1251135_n33TCR8-thumbnail-510x510-70.jpg 2x"
+                 alt=""
+                 src="../../../../static/images/placeholder255x255.png">
+            </div>
+          <span class="product-list-item-name" title="Pentek Stainless Steel Water Filter Housing CFHF-7 x 20&quot; SS304">Pentek Stainless Steel Water Filter Housing CFHF-7 x 20&quot; SS304</span>
+        </div>
+        <div class="panel-footer">
+          
+            
+            <div>
+            
+              
+            
+            </div>
+            
+            <div>
+
+
+<span>
+  <span>
+    
+    
+      <span class="currency">$</span>750.00
+    
+  </span>
+</span>
+</div>
+            
+              
+                <div class="product-list__sale">
+                  <svg src="/static/images/sale-bg.svg" />
+                  <span class="product-list__sale__text">
+                    
+                    Sale
+                  </span>
+                </div>
+              
+            
+          
+        </div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+              <div class="row">
+                <div class="m-auto">
+                  
+                </div>
+              </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <a href="../../../../index.html" class="footer__logo">
+            <svg src="/static/images/logo.svg" height="38px" width="176px"/>
+          </a>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          
+
+
+
+
+<ul class="menu ">
+  
+</ul>
+
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <ul>
+            
+            
+              
+              <li>
+                <a rel="nofollow" href="../../../account/login/index.html">
+                  Log in
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-12">
+          <a target="_blank" rel="noopener" class="social-footer" href="https://www.facebook.com/zurn.akiki/">
+            <svg src="/static/images/facebook-logo.svg" width="45px" height="45px"/>
+          </a>
+          <a target="_blank" rel="noopener" class="social-footer" href="https://github.com/akikieng">
+            <svg src="/static/images/github-logo.svg" width="45px" height="45px"/>
+          </a>
+          
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  
+  <script type="text/javascript" src="../../../jsi18n/index.html"></script>
+  <script type="text/javascript" src="../../../../static/assets/storefront.js" ></script>
+
+
+
+
+<!--
+  disable lazy-loading of images
+  https://stackoverflow.com/a/5378926/4126114
+  https://github.com/mirumee/saleor/issues/1666#issuecomment-428067193
+
+<script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+<script type='text/javascript'>
+$(function() {
+  $('img.lazyload').each(function() {
+    $(this).attr("src", $(this).attr("src"));
+  });
+});
+</script>
+-->
+</body>
+</html>
