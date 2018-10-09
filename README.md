@@ -2,11 +2,17 @@
 
 Mirror of bazaar.akikieng.com, without user login, i.e. data that is displayed to authenticated user is not shown
 
-Done with wget and nginx
+Built with wget and nginx
 
 References
 * https://fosswire.com/post/2008/04/create-a-mirror-of-a-website-with-wget/
 * https://www.nginx.com/resources/wiki/modules/substitutions/#subs-filter
+
+Served at
+* http://bazaar-snapshot-anonymous.akikieng.com/
+  * aws ec2 bare metal server with nginx
+* http://bazaar-snapshot-anonymous.s3-website-us-east-1.amazonaws.com
+  * aws s3 bucket bazaar-snapshot-anonymous
 
 
 ## Requirements
