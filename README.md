@@ -28,7 +28,11 @@ wget -mk https://bazaar.akikieng.com/
 
 The wget command above will download all files into a folder `bazaar.akikieng.com`
 
-Serve this file statically with nginx, like it serves `/var/www/html`
+To serve this file statically with nginx, like it serves `/var/www/html`,
+be careful not to have a prefix path in your endpoint, otherwise some css/javascript might not work,
+i.e. serve from http://bazaar-snapshot-anonymous.akikieng.com
+and not from http://bazaar-static.akikieng.com/bazaar-snapshot-anonymous
 
-Be careful not to have a prefix path in your endpoint, otherwise some css/javascript might not work,
-i.e. serve from http://bazaar-snapshot-anonymous.akikieng.com and not from http://bazaar-static.akikieng.com/bazaar-snapshot-anonymous
+Given the above requirement on not having a prefix with the endpoint,
+github pages doesn't play well, since it serves the site from something like
+https://akikieng.github.io/bazaar.akikieng.com-snapshot-anonymous/
